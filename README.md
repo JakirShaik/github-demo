@@ -1,2 +1,4 @@
-# github-demo
-A simple git repository to show the basic git commands
+# Starter Web Project
+## Introduction
+## Purpose
+## How to contribute
